@@ -2,6 +2,7 @@
 @import "tailwindcss";
 
 :root {
+  --Red: hsl(0, 100%, 66%);
   --White: hsl(0, 100%, 100%);
   --Gray-200: hsl(270, 3%, 87%);
   --Gray-400: hsl(212, 12%, 71%);
